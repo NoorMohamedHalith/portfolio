@@ -110,7 +110,7 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #ee6161;
+  background-color: #61d577;
   box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
 }
 
@@ -143,7 +143,7 @@ img {
 }
 .nav__link {
   position: relative;
-  color: #83ff87;
+  color: #61d577;
 }
 .nav__link:hover {
   position: relative;
@@ -158,10 +158,10 @@ img {
   background-color: var(--first-color);
 }
 .nav__logo {
-  color: var(--second-color);
+  color: #61d577;
 }
 .nav__toggle {
-  color: var(--second-color);
+  color: #61d577;
   font-size: 1.5rem;
   cursor: pointer;
 }
